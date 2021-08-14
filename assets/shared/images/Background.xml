@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Background.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="brrrrr0000" x="0" y="0" width="1626" height="500" frameX="0" frameY="-9" frameWidth="1631" frameHeight="509"/>
+	<SubTexture name="brrrrr0001" x="0" y="0" width="1626" height="500" frameX="0" frameY="-9" frameWidth="1631" frameHeight="509"/>
+	<SubTexture name="brrrrr0002" x="1626" y="0" width="1622" height="505" frameX="0" frameY="-4" frameWidth="1631" frameHeight="509"/>
+	<SubTexture name="brrrrr0003" x="0" y="505" width="1622" height="505" frameX="0" frameY="-4" frameWidth="1631" frameHeight="509"/>
+	<SubTexture name="brrrrr0004" x="1622" y="505" width="1627" height="508" frameX="0" frameY="-1" frameWidth="1631" frameHeight="509"/>
+	<SubTexture name="brrrrr0005" x="1622" y="505" width="1627" height="508" frameX="0" frameY="-1" frameWidth="1631" frameHeight="509"/>
+	<SubTexture name="brrrrr0006" x="0" y="1013" width="1630" height="509" frameX="0" frameY="0" frameWidth="1631" frameHeight="509"/>
+	<SubTexture name="brrrrr0007" x="0" y="1013" width="1630" height="509" frameX="0" frameY="0" frameWidth="1631" frameHeight="509"/>
+	<SubTexture name="brrrrr0008" x="1630" y="1013" width="1631" height="509"/>
+	<SubTexture name="brrrrr0009" x="0" y="1522" width="1631" height="509"/>
+	<SubTexture name="brrrrr0010" x="0" y="1522" width="1631" height="509"/>
+	<SubTexture name="brrrrr0011" x="0" y="1522" width="1631" height="509"/>
+	<SubTexture name="brrrrr0012" x="1630" y="1013" width="1631" height="509"/>
+	<SubTexture name="brrrrr0013" x="1630" y="1013" width="1631" height="509"/>
+</TextureAtlas>

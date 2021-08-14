@@ -1,0 +1,6 @@
+Tutorial:gf:1
+Chorus:choco:7
+Choccy:choco:7
+New-Partner:choco:7
+Woman:woman:8
+Tacobelle:woman:8

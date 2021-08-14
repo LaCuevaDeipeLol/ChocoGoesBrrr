@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sans.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="epick transformation0000" x="0" y="0" width="156" height="240" frameX="-229" frameY="-331" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0001" x="156" y="0" width="157" height="241" frameX="-228" frameY="-330" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0002" x="156" y="0" width="157" height="241" frameX="-228" frameY="-330" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0003" x="313" y="0" width="156" height="245" frameX="-226" frameY="-326" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0004" x="313" y="0" width="156" height="245" frameX="-226" frameY="-326" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0005" x="469" y="0" width="156" height="248" frameX="-224" frameY="-323" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0006" x="469" y="0" width="156" height="248" frameX="-224" frameY="-323" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0007" x="469" y="0" width="156" height="248" frameX="-224" frameY="-323" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0008" x="625" y="0" width="156" height="248" frameX="-224" frameY="-323" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0009" x="781" y="0" width="156" height="247" frameX="-224" frameY="-324" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0010" x="937" y="0" width="162" height="256" frameX="-218" frameY="-315" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0011" x="1099" y="0" width="169" height="265" frameX="-212" frameY="-306" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0012" x="1268" y="0" width="176" height="273" frameX="-206" frameY="-297" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0013" x="1444" y="0" width="184" height="282" frameX="-200" frameY="-288" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0014" x="1628" y="0" width="192" height="290" frameX="-193" frameY="-279" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0015" x="1820" y="0" width="200" height="299" frameX="-187" frameY="-270" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0016" x="2020" y="0" width="207" height="307" frameX="-181" frameY="-261" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0017" x="2227" y="0" width="216" height="316" frameX="-174" frameY="-252" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0018" x="2443" y="0" width="223" height="325" frameX="-168" frameY="-243" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0019" x="2666" y="0" width="231" height="334" frameX="-162" frameY="-234" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0020" x="2897" y="0" width="240" height="346" frameX="-155" frameY="-222" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0021" x="3137" y="0" width="247" height="358" frameX="-149" frameY="-210" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0022" x="3384" y="0" width="255" height="371" frameX="-143" frameY="-197" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0023" x="3639" y="0" width="262" height="384" frameX="-137" frameY="-185" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0024" x="0" y="384" width="271" height="396" frameX="-130" frameY="-173" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0025" x="271" y="384" width="278" height="408" frameX="-124" frameY="-161" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0026" x="549" y="384" width="286" height="421" frameX="-118" frameY="-148" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0027" x="835" y="384" width="295" height="433" frameX="-111" frameY="-136" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0028" x="1130" y="384" width="304" height="446" frameX="-105" frameY="-124" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0029" x="1434" y="384" width="313" height="459" frameX="-99" frameY="-111" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0030" x="1747" y="384" width="322" height="471" frameX="-92" frameY="-99" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0031" x="2069" y="384" width="331" height="483" frameX="-86" frameY="-87" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0032" x="2400" y="384" width="341" height="496" frameX="-80" frameY="-75" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0033" x="2741" y="384" width="352" height="509" frameX="-73" frameY="-62" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0034" x="3093" y="384" width="362" height="521" frameX="-67" frameY="-50" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0035" x="3455" y="384" width="371" height="533" frameX="-61" frameY="-38" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0036" x="0" y="917" width="382" height="547" frameX="-54" frameY="-25" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0037" x="382" y="917" width="392" height="561" frameX="-48" frameY="-13" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0038" x="774" y="917" width="403" height="576" frameX="-41" frameY="-1" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0039" x="1177" y="917" width="426" height="551" frameX="-20" frameY="-25" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0040" x="1177" y="917" width="426" height="551" frameX="-20" frameY="-25" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0041" x="1603" y="917" width="444" height="545" frameX="0" frameY="-31" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0042" x="1603" y="917" width="444" height="545" frameX="0" frameY="-31" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0043" x="2047" y="917" width="424" height="554" frameX="-20" frameY="-22" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0044" x="2047" y="917" width="424" height="554" frameX="-20" frameY="-22" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0045" x="2471" y="917" width="406" height="572" frameX="-36" frameY="-4" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0046" x="2471" y="917" width="406" height="572" frameX="-36" frameY="-4" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0047" x="2877" y="917" width="402" height="576" frameX="-40" frameY="0" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0048" x="2877" y="917" width="402" height="576" frameX="-40" frameY="0" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0049" x="2877" y="917" width="402" height="576" frameX="-40" frameY="0" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0050" x="2877" y="917" width="402" height="576" frameX="-40" frameY="0" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0051" x="2877" y="917" width="402" height="576" frameX="-40" frameY="0" frameWidth="446" frameHeight="577"/>
+	<SubTexture name="epick transformation0052" x="2877" y="917" width="402" height="576" frameX="-40" frameY="0" frameWidth="446" frameHeight="577"/>
+</TextureAtlas>
